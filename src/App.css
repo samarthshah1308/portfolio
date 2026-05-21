@@ -1,0 +1,12 @@
+/* App-specific styles */
+.app-container {
+  position: relative;
+}
+
+nav a {
+  transition: color 0.3s ease;
+}
+
+nav a:hover {
+  color: var(--primary) !important;
+}
